@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_862556e11bec3fe8f712f82931b5b4edc0a2bc57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_280b840382f50be414d96fdb40d86da9b0d4b776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/.android/build-cache/d979e49c5f45c7daa042d78c63c21a3f89c9910d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcf6ba2c4cb5d06f1f7b8c71b25f3bbac3568129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.5.5/5442d5e05808145434b750c9f8a0c3f537383c5a/android-activation-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-activation-1.5.5_8c56607fcc3023247d59582204b78921bbd79fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2cde5917ad040e89a3954824adfbb2cc5a75908">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_358f169767b1c30e15c3121fedd0c860e3472073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.5.5/53a2f927b235acb565dbe9314ececfb7e6d43020/android-mail-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-mail-1.5.5_284561398c2229685b1a40c3abdeee2882487ff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_2cf0839ab327de5e0d47dc15901c0801ed12b76b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/macbookretina/AndroidStudioProjects/MiMascota/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_6bc2483e4c654dd4f5ff78421e6bc8881747a518/classes.dex" />
+    </item>
+
+</items>
