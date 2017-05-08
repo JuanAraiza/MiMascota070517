@@ -5,6 +5,6 @@ package com.smasite.mimascota.Mail;
  */
 
 public class Config {
-    public static final String EMAIL ="jaraiza15@gmail.com";
-    public static final String PASSWORD ="Juarra15";
+    public static final String EMAIL ="mail@gmail.com";
+    public static final String PASSWORD ="password";
 }
